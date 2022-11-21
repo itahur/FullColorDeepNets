@@ -1,0 +1,16 @@
+.ipynb_checkpoints
+__pycache__
+NFResults/
+datasets/
+*.pth
+*.jpg
+*.png
+OldFiles/
+custom_datasets/
+predictions/
+Old Saves/
+plots/
+wandb/
+trainvalAccs/
+Old/
+semi_final/
